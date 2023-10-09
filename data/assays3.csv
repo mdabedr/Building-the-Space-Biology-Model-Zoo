@@ -1,0 +1,151 @@
+Assay3
+<device>  </device>
+<device>  </device>
+<device>  </device>
+<device> iTRAQ </device>
+<device> Illumina </device>
+<device>  </device>
+<device>  </device>
+<device> Illumina </device>
+<device> Agilent </device>
+<device> Agilent </device>
+<device> Affymetrix </device>
+<device> LTQ Orbitrap Velos (Thermo Scientific)IlluminaIllumina HiSeq 4000 </device>
+<device>  </device>
+<device> Agilent </device>
+<device> Affymetrix </device>
+<device> Affymetrix </device>
+<device>  </device>
+<device> Illumina </device>
+<device> Affymetrix </device>
+<device>  </device>
+<device> Illumina HiSeq 4000 </device>
+<device> Affymetrix </device>
+<device> Affymetrix </device>
+<device>  </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Illumina </device>
+<device>  </device>
+<device> Illumina </device>
+<device> Illumina </device>
+<device> Agilent </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Illumina NovaSeq 6000 </device>
+<device>  </device>
+<device> Illumina </device>
+<device>  </device>
+<device> Affymetrix </device>
+<device> Illumina NovaSeq 6000 </device>
+<device>  </device>
+<device>  </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Affymetrix </device>
+<device> Nimblegen </device>
+<device> Illumina </device>
+<device> Illumina </device>
+<device>  </device>
+<device> LTQ Orbitrap Fusion (Thermo Scientific)IlluminaIlluminaIllumina HiSeq 4000 </device>
+<device> Illumina </device>
+<device>  </device>
+<device> Affymetrix </device>
+<device> Affymetrix </device>
+<device> Agilent </device>
+<device> Illumina </device>
+<device> Exiqon </device>
+<device> Affymetrix </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Agilent </device>
+<device> Affymetrix </device>
+<device> Affymetrix </device>
+<device> Agilent </device>
+<device> Illumina </device>
+<device> IlluminaIllumina </device>
+<device>  </device>
+<device> BD Biosciences Clontech </device>
+<device> Affymatrix </device>
+<device> Agilent </device>
+<device> Affymetrix </device>
+<device> Illumina HiSeq 2000 </device>
+<device> Ion Proton </device>
+<device> LTQ-Orbitrap Velos ProIllumina </device>
+<device> Agilent </device>
+<device> Affymetrix </device>
+<device> Pacific Biosciences </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Agilent </device>
+<device> Agilent </device>
+<device> Roche GS FLX </device>
+<device> Illumina </device>
+<device>  </device>
+<device> Thermo-Finnigan Mass SpectrometerRT2 ProfilerTM PCR Array </device>
+<device>  </device>
+<device> IlluminaIllumina </device>
+<device> LTQ Orbitrap Fusion (Thermo Scientific)6530 Q-TOF LC/MS (Agilent)Leco Pegasus TOFIllumina HiSeq 4000 </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Thermo-Finnigan Mass Spectrometer </device>
+<device> Affymetrix </device>
+<device> Illumina </device>
+<device>  </device>
+<device>  </device>
+<device> SYNAPT G2 HDMS (Waters) </device>
+<device>  </device>
+<device> Affymatrix </device>
+<device> Nimblegen </device>
+<device>  </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Filgen </device>
+<device>  </device>
+<device> Illumina </device>
+<device> Affymetrix </device>
+<device> Illumina </device>
+<device> Agilent </device>
+<device>  </device>
+<device> Illumina NovaSeq 6000 </device>
+<device>  </device>
+<device> Illumina </device>
+<device>  </device>
+<device> LTQ Orbitrap Velos (Thermo Scientific)Illumina HiSeq 4000 </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Agilent </device>
+<device> Illumina </device>
+<device>  </device>
+<device>  </device>
+<device> Illumina HiSeq 2000 </device>
+<device> Affymetrix </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Affymetrix </device>
+<device> LTQ Orbitrap Velos (Thermo Scientific)IlluminaIllumina HiSeq 4000pannoramic scan (3d histech) </device>
+<device> Nimblegen </device>
+<device> Affymatrix </device>
+<device> Illumina </device>
+<device> ExiqonIllumina </device>
+<device> Agilent </device>
+<device>  </device>
+<device> Agilent </device>
+<device> Illumina MiSeqIllumina MiSeq </device>
+<device> Agilent </device>
+<device> Orbitrap Fusion Tribrid </device>
+<device> Illumina </device>
+<device>  </device>
+<device> Affymetrix </device>
+<device>  </device>
+<device> Affymetrix </device>
+<device>  </device>
+<device> Illumina </device>
+<device> BD Biosciences Clontech </device>
+<device> Affymetrix </device>
+<device> Illumina </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Illumina NovaSeq 6000 </device>
+<device> Affymetrix </device>
+<device> Agilent </device>
+<device> Illumina </device>
+<device> Illumina </device>
+<device> Affymetrix </device>
+<device> Affymetrix </device>
+<device> Illumina MiSeqIllumina MiSeq </device>
+<device> Ion Proton </device>
+<device> Illumina HiSeq 2500 </device>
+<device> Affymetrix </device>
+<device>  </device>
